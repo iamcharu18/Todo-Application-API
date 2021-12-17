@@ -1,4 +1,4 @@
-# Todo Application
+# [ Solved ] Todo Application
 
 Given an `app.js` file and database file `todoApplication.db` with a table `todo`.
 
